@@ -17,3 +17,10 @@ Whether you are part of a CSIRT, an incident responder, a threat intelligence pr
 | |*|*| [Community building](value_community_build) | Increase credibility of your security team
 | |*|*| [Awareness](value_awareness) | Situational awareness
 | |*|*| [Awareness](value_awareness) | Educate and engage with stakeholders
+| |*|*| [Threat actor profiling](value_threatactor_profiling)| 
+| |*|*| [Threat actor risks](value_threatactor_profiling)| Document the adversaries targeting your environment
+| |*|*| [Threat landscapes](value_threatlandscape)|
+|*|*| | [SIEM integration](value_siem)| Integrate with Sentinel, XSOAR, ...
+|*|*| | [Firewall integration](value_firewall)| Integrate with firewalls. Provide updates to firewall/block rules
+|*|*| | [Proxy integration](value_proxy) |Integrate with proxies. Provide updates to URL block lists
+|*|*| | [DNS integration](value_dns)| Integrate with DNS. RPZ zones
