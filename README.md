@@ -12,11 +12,13 @@ Whether you are part of a CSIRT, an incident responder, a threat intelligence pr
 |*|*| | [Support incident response](value_support_incident_response) | Improve incident analysis and decrease incident resolution time
 | |*|*| [Regulatory compliancy](value_regulatory_compliancy) | Detect and verify indicators from regulatory bodies
 | |*|*| [Community building](value_community_build) | Collaborate with your peers
-| |*|*| [Community building](value_community_build) | Benchmark with your peers
-| |*|*| [Community building](value_community_build) | Exposure within your vertical
-| |*|*| [Community building](value_community_build) | Increase credibility of your security team
+| |*|*| [ Benchmark with your peers](value_community_build) |
+| |*|*| [Exposure within your vertical](value_community_build) | 
+| |*|*| [Increase credibility of your security team](value_community_build) | 
 | |*|*| [Awareness](value_awareness) | Situational awareness
-| |*|*| [Awareness](value_awareness) | Educate and engage with stakeholders
+| |*|*| [Educate and engage with stakeholders](value_awareness) | Educate and engage with stakeholders
+| |*|*| [Daily heads-up of trends](value_awareness) | 
+|*|*| | [Patch prioritisation](value_vulnerability) | Patch prioritisation, based on exploited vulnerabilities
 | |*|*| [Threat actor profiling](value_threatactor_profiling)| 
 | |*|*| [Threat actor risks](value_threatactor_profiling)| Document the adversaries targeting your environment
 | |*|*| [Threat landscapes](value_threatlandscape)|
@@ -24,3 +26,6 @@ Whether you are part of a CSIRT, an incident responder, a threat intelligence pr
 |*|*| | [Firewall integration](value_firewall)| Integrate with firewalls. Provide updates to firewall/block rules
 |*|*| | [Proxy integration](value_proxy) |Integrate with proxies. Provide updates to URL block lists
 |*|*| | [DNS integration](value_dns)| Integrate with DNS. RPZ zones
+| |*|*| [Red Teaming](value_redteam)|
+| |*|*| [TIBER](value_tiber)|
+
