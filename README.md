@@ -8,24 +8,41 @@ Whether you are part of a CSIRT, an incident responder, a threat intelligence pr
 
 |Tactical|Operational|Strategic|Value|Comment
 |----|---|---|---|---|
-|*|*| | [Support incident response](value_support_incident_response) | Reduce number of incidents 
-|*|*| | [Support incident response](value_support_incident_response) | Improve incident analysis and decrease incident resolution time
-| |*|*| [Regulatory compliancy](value_regulatory_compliancy) | Detect and verify indicators from regulatory bodies
-| |*|*| [Community building](value_community_build) | Collaborate with your peers
-| |*|*| [ Benchmark with your peers](value_community_build) |
-| |*|*| [Exposure within your vertical](value_community_build) | 
-| |*|*| [Increase credibility of your security team](value_community_build) | 
-| |*|*| [Awareness](value_awareness) | Situational awareness
-| |*|*| [Educate and engage with stakeholders](value_awareness) | Educate and engage with stakeholders
-| |*|*| [Daily heads-up of trends](value_awareness) | 
-|*|*| | [Patch prioritisation](value_vulnerability) | Patch prioritisation, based on exploited vulnerabilities
-| |*|*| [Threat actor profiling](value_threatactor_profiling)| 
-| |*|*| [Threat actor risks](value_threatactor_profiling)| Document the adversaries targeting your environment
-| |*|*| [Threat landscapes](value_threatlandscape)|
-|*|*| | [SIEM integration](value_siem)| Integrate with Sentinel, XSOAR, ...
-|*|*| | [Firewall integration](value_firewall)| Integrate with firewalls. Provide updates to firewall/block rules
-|*|*| | [Proxy integration](value_proxy) |Integrate with proxies. Provide updates to URL block lists
-|*|*| | [DNS integration](value_dns)| Integrate with DNS. RPZ zones
-| |*|*| [Red Teaming](value_redteam)|
-| |*|*| [TIBER](value_tiber)|
+|*|*| | [Support incident response](value/value_ir.md) | Reduce number of incidents and improve incident analysis and decrease incident resolution time
+|*|*| | [Detect data breaches](value/value_ir.md) | Use the data and information from the IP to detect data breaches
+| |*|*| [Regulatory compliancy](value/value_regulatory.md) | Detect and verify indicators from regulatory bodies
+| |*|*| [Exposure within your vertical](value/value_template.md) | Collaboration shows you're part of the community
+| |*|*| [Risk management](value/value_risk.md) | 
+| |*|*| [Community building](value/value_template.md) | Collaborate with your peers
+| |*|*| [Educate and engage with stakeholders](value/value_template.md) | Educate and engage with stakeholders
+| |*|*| [Increase credibility of your security team](value/value_template.md) | Using a TIP as part of the threat intelligence framework
+| |*|*| [Awareness](value/value_template.md) | Use the platform to support situational awareness
+| |*|*| [Incident notifications](value/value_template.md) | Learn about threats affecting organizations similar to us
+| |*|*| [Daily heads-up of trends](value/value_template.md) | Notification of important events
+| |*|*| [Geopolitical events](value/value_template.md) | Tracking geopolitical events
+| |*|*| [Vulnerability management](value/value_template.md) | Vulnerability management
+|*|*| | [Patch prioritisation](value/value_template.md) | Patch prioritisation, based on exploited vulnerabilities
+| | |*| [Prioritise investments and development](value/value_template.md) | 
+| |*|*| [Identification of Advanced Persistent Threats (APTs)](value/value_template.md)| 
+| |*|*| [Threat actor profiling](value/value_template.md.md)| 
+| |*|*| [Threat actor risks](value/value_template.md)| Document the adversaries targeting your environment
+| |*|*| [Threat landscapes](value/value_template.md)|
+| |*|*| [Campaign overlap](value/value_template.md)| Detecting overlaps between multiple campaigns
+|*|*| | [SIEM integration](value/value_template.md)| Integrate with Sentinel, XSOAR, ...
+|*|*| | [Reduce false positives](value/value_template.md)| Reduce the number of false positives for security operations
+|*|*| | [Firewall integration](value/value_template.md)| Integrate with firewalls. Provide updates to firewall/block rules
+|*|*| | [Proxy integration](value/value_template.md) |Integrate with proxies. Provide updates to URL block lists
+|*|*| | [DNS integration](value/value_template.md)| Integrate with DNS. RPZ zones
+| |*|*| [Threat hunting](value/value_template.md)| Use the TIP as basis for threat hunting
+| |*|*| [Red Teaming](value/value_template.md)| Use the TIP as basis for Red Teaming
+| |*|*| [Purple Teaming](value/value_template.md)| 
+| |*|*| [TIBER](value/value_template.md)| Use the TIP as basis for TIBER engagements
+| |*|*| [Adversary emulation](value/value_template.md)| 
 
+
+# Metrics
+
+# Resources
+
+* [CTI-CMM](https://github.com/cti-cmm/framework): CTI Capability Maturity Model
+* [Exploring the opportunities and limitations of current Threat Intelligence Platforms](https://www.enisa.europa.eu/publications/exploring-the-opportunities-and-limitations-of-current-threat-intelligence-platforms): A report to understand the limitations of threat information sharing and the analysis tools that are currently in use
