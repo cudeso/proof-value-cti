@@ -1,6 +1,6 @@
 # Value: Regulatory compliance
 
-A cyber threat intelligence platform helps organisations meet regulatory compliance by detecting and verifying indicators provided by regulatory bodies.
+Using cyber threat intelligence helps organisations meet regulatory compliance by detecting and verifying indicators provided by regulatory bodies.
 
 This helps maintain operational integrity while meeting obligations set forth by GDPR, NIS Directive, or other regulatory frameworks.
 
