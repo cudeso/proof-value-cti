@@ -47,3 +47,4 @@ Whether you are part of a CSIRT, an incident responder, a threat intelligence pr
 
 * [CTI-CMM](https://github.com/cti-cmm/framework): CTI Capability Maturity Model
 * [Exploring the opportunities and limitations of current Threat Intelligence Platforms](https://www.enisa.europa.eu/publications/exploring-the-opportunities-and-limitations-of-current-threat-intelligence-platforms): A report to understand the limitations of threat information sharing and the analysis tools that are currently in use
+* [Intelligence Architecture Mind Map](https://github.com/Errum/IntelArchitectureMap)
