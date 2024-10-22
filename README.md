@@ -37,7 +37,7 @@ Whether you are part of a CSIRT, an incident responder, a threat intelligence pr
 | |*|*| [Red Teaming](value/value_template.md)|
 | |*|*| [Purple Teaming](value/value_template.md)| 
 | |*|*| [TIBER](value/value_template.md)| 
-| |*|*| [Adversary emulation](value/value_template.md)| 
+| |*|*| [Adversary emulation](value/adversary_emulation.md)| 
 
 # Metrics
 
