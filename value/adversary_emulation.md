@@ -1,6 +1,6 @@
 # Value: Adversary Emulation
 
-*Collecting cyber threat intelligence can help to support your organisation’s goals to continuously protect and test security controls, detection and response processes against specific adversary tradecraft. 
+Collecting cyber threat intelligence can help to support your organisation’s goals to continuously protect and test security controls, detection and response processes against specific adversary tradecraft. 
 Depending on the profile, some organisations that suffered previous incidents from an APT, it may be beneficial to continuously monitor evolution of threat actors. 
 This is however primarily recommended to organisations with already mature security postures, as emulation is very expensive. 
 
