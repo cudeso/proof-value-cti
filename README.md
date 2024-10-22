@@ -28,7 +28,7 @@ Whether you are part of a CSIRT, an incident responder, a threat intelligence pr
 | |*|*| [Threat actor risks](value/value_template.md)| Document the adversaries targeting your environment
 | |*|*| [Threat landscapes](value/value_template.md)|
 | |*|*| [Campaign overlap](value/value_template.md)| Detecting overlaps between multiple campaigns
-|*|*| | [SIEM integration](value/value_template.md)| Integrate with Sentinel, XSOAR, ...
+|*|*| | [SIEM integration](value/value_siem.md)| Integrate with Sentinel, XSOAR, ...
 |*|*| | [Reduce false positives](value/value_template.md)| Reduce the number of false positives for security operations
 |*|*| | [Firewall integration](value/value_firewall_proxy_dns.md)| Integrate with firewalls. Provide updates to firewall/block rules
 |*|*| | [Proxy integration](value/value_firewall_proxy_dns.md) |Integrate with proxies. Provide updates to URL block lists
