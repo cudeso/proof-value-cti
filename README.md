@@ -18,7 +18,7 @@ Whether you are part of a CSIRT, an incident responder, a threat intelligence pr
 | |*|*| [Increase credibility of your security team](value/value_template.md) |
 | |*|*| [Awareness](value/value_template.md) | Support situational awareness
 | |*|*| [Incident notifications](value/value_template.md) | Learn about threats affecting organizations similar to us
-| |*|*| [Daily heads-up of trends](value/value_template.md) | Notification of important events
+| |*|*| [Daily heads-up of trends](value/value_daily_heads_up.md) | Notification of important events
 | |*|*| [Geopolitical events](value/value_template.md) | Tracking geopolitical events
 | |*|*| [Vulnerability management](value/value_template.md) | Vulnerability management
 |*|*| | [Patch prioritisation](value/value_template.md) | Patch prioritisation, based on exploited vulnerabilities
